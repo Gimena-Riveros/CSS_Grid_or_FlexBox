@@ -16,4 +16,4 @@ YouTube: : https://www.youtube.com/@UskoKruM2010<br/>
 ![](./preview2.png)
 
 # 🌍 Por si deseas contactarme 👩🏻‍💻 :
-[![Web](https://img.shields.io/badge/My_Website-uskokrum2010.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://codepen.io/gimena-riveros)
+[![Web]](https://codepen.io/gimena-riveros)
