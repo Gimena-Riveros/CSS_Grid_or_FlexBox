@@ -11,7 +11,7 @@ YouTube: : https://www.youtube.com/@UskoKruM2010<br/>
 <hr/>
 
 <br/><br/>
-![](./preview1.PNG)
+![](./preview1.png)
 <br/><br/>
 ![](./preview2.png)
 
