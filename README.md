@@ -4,9 +4,9 @@ Aprende a utilizar CSS Grid y Flexbox en tus sitios web, entendiendo sus concept
 
 <hr/>
 
-🔴 *** YOUTUBER RECOMENDADO ***<br/>
-YouTube: : https://www.youtube.com/@UskoKruM2010<br/>
-¡Usa el código USKOKRUM2010 para un buen descuento!
+#### 🔴 &emsp; 🔴 &emsp; 🔴 &emsp; YOUTUBER RECOMENDADO &emsp; <a href="https://www.youtube.com/@UskoKruM2010" target="_blank" > UskoKruM2010 </a> &emsp; 🔴 &emsp; 🔴 &emsp; 🔴
+
+<br/>
 
 <hr/>
 
@@ -15,5 +15,10 @@ YouTube: : https://www.youtube.com/@UskoKruM2010<br/>
 <br/><br/>
 ![](./preview2.png)
 
-# 🌍 Por si deseas contactarme 👩🏻‍💻 :
-[![Web]](https://codepen.io/gimena-riveros)
+<br/><br/> <hr>
+<h2 align="center">🌍 &emsp; <em> Find me on...</em> &emsp; 🌎 </h2>
+<div align="center">
+  <a href="https://codepen.io/gimena-riveros" target="_blank" >
+       <img src="https://raw.githubusercontent.com/Gimena-Riveros/AllYouNeedIs.../77e1cb1e8906619bdde0403d6ac77afc6a6d254b/Logos/codepen.svg" alt="Gimena Riveros's Codeopen Profile" height="50" width="50" target="_blank">
+   </a>
+</div>
