@@ -9,7 +9,10 @@ Aprende a utilizar CSS Grid y Flexbox en tus sitios web, entendiendo sus concept
 <br/>
 
 <hr/>
-
+<br/>
+<hr/>
+  <h2>A ⭐ is appreciated to continue growing in the community 👩‍💻 </h2>
+<hr/>
 <br/><br/>
 ![](./preview1.png)
 <br/><br/>
