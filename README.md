@@ -4,16 +4,18 @@ Aprende a utilizar CSS Grid y Flexbox en tus sitios web, entendiendo sus concept
 
 <hr/>
 
-#### 🔴 &emsp; 🔴 &emsp; 🔴 &emsp; YOUTUBER RECOMENDADO &emsp; <a href="https://www.youtube.com/@UskoKruM2010" target="_blank" > UskoKruM2010 </a> &emsp; 🔴 &emsp; 🔴 &emsp; 🔴
+  <h3 align="center">🔴 &emsp; 🔴 &emsp; 🔴 &emsp; YOUTUBER RECOMENDADO &emsp; <a href="https://www.youtube.com/@UskoKruM2010" target="_blank" > UskoKruM2010 </a> &emsp; 🔴 &emsp; 🔴 &emsp; 🔴</h3> 
+
+<hr>
+
+<br/>
+  <h1 align="center">A ⭐ is appreciated to continue growing in the community 👩‍💻</h1> 
+<hr>
+
+<br/> 
 
 <br/>
 
-<hr/>
-<br/>
-<hr/>
-  <h2>A ⭐ is appreciated to continue growing in the community 👩‍💻 </h2>
-<hr/>
-<br/><br/>
 ![](./preview1.png)
 <br/><br/>
 ![](./preview2.png)
